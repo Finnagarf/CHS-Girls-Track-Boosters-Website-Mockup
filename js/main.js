@@ -1,12 +1,11 @@
 
-
 // ---- Site configuration: edit these values to update links everywhere ----
 const siteConfig = {
-  donationUrl: "#",
+  donationUrl: "https://www.zeffy.com/en-US/donation-form/support-champaign-central-girls-track-boosters",
   volunteerFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLScpR81TnREv1lL5aMesUHCvy4aRIfH2nR77Jy9UQkRagllvOw/viewform?embedded=true",
   email: "centralgirlstrackboosters@gmail.com",
-  facebookUrl: "#",
-  instagramUrl: "#",
+  facebookUrl: "https://www.facebook.com/runningmaroons/",
+  instagramUrl: "https://www.instagram.com/runningmaroons/",
 };
 
 // ---- Apply configuration to the page ----
